@@ -1,0 +1,164 @@
+section{
+  /*width: 100vw;
+  height:110vh;*/
+  padding: 50px;
+  position:relative;
+  overflow: hidden;
+  height: 1000px;
+
+}
+
+body{
+  /*position: relative;*/
+}
+img{
+  /*margin: 10px;*/
+  /*width: auto;*/
+
+}
+/*...................................................................................................................*/
+#intro{
+  background-color: white;
+  width: 1000px;
+  height: 1000px;
+  /*background-image: url("F:/Design Crap/Shalaby/jpg/heyground1--.jpg");
+  background-repeat: no-repeat;
+  background-position:  left bottom ;
+  background-size: 50% 50%;
+  width: 85vw;
+  height:50vh;*/
+
+}
+/*.navbar{
+  display: none !important;
+}*/
+#intro img{
+  width: 85vw;
+  height:50vh;
+  /*background-position:left bottom;*/
+  margin-top: 260px;
+}
+#intro span{
+  position: absolute;
+  color: black;
+  width: 100%;
+  font-weight: bold;
+  font: 400 100px/1.0 'Just Another Hand', Helvetica, sans-serif;
+  top:255px;
+  left:100px;
+  /*color: #969595;*/
+  /*text-shadow: 0px 3px 0px #5e5e5e, 0px 5px 0px #4d4d4d, 0px 7px 0px #3c3c3c, 0px 9px 0*/
+}
+/*...................................................................................................................*/
+#about{
+  background-color: white;
+  width: 1000px;
+  height: 1000px;
+
+  margin-top: -300px;
+    }
+  #about img{
+    /*background-size: 50% 50%;*/
+    background-repeat: no-repeat;
+    width: 100%;
+    /*width: 100vw;*/
+    height:80vh;
+
+
+  }
+  #about div h2 {
+    position: absolute;
+    color: black;
+    width: 100%;
+    font-weight: bold;
+    font: 300 60px/1.0 'Just Another Hand', Helvetica, sans-serif;
+    top:130px;
+    /*left:100px;*/
+}
+  #about div p {
+    /*border: 2px solid black;*/
+    position: absolute;
+    color: black;
+    width: 100%;
+    font-weight: bold;
+    font: 200 40px/1.0 'Just Another Hand', Helvetica, sans-serif;
+    top:250px;
+    /*left:100px;*/
+  }
+
+    /*...................................................................................................................*/
+    #examples{
+      background-color: white;
+      width: 1000px;
+      height: 1000px;
+      margin-top: -300px;
+        }
+        #examples h2 {
+          /*position: absolute;*/
+          color: black;
+          width: 100%;
+          font-weight: bold;
+          font: 300 60px/1.0 'Just Another Hand', Helvetica, sans-serif;
+          top:130px;
+          /*left:100px;*/
+      }
+        #examples p {
+          /*border: 2px solid black;*/
+          /*position: absolute;*/
+          color: black;
+          width: 100%;
+          font-weight: bold;
+          font: 200 40px/1.0 'Just Another Hand', Helvetica, sans-serif;
+          top:250px;
+          /*left:100px;*/
+        }
+      #examples img{
+        width: 400px;
+        height: 300px;
+        background-repeat: no-repeat;
+        /*align-items: center;*/
+        display:inline-table;
+        margin:20px;
+        border: 2px solid grey;
+     }
+     #examples #img3 {
+       width: 300px;
+       height: 300px;
+     }
+
+/*...................................................................................................................*/
+#contacts{
+ /*background-size: 50% 50%;*/
+ /*background-repeat: no-repeat;*/
+ /*text-align: center;*/
+}
+#contacts h2 {
+  position: relative;
+  color: black;
+  width: 100%;
+  font-weight: bold;
+  font: 300 60px/1.0 'Just Another Hand', Helvetica, sans-serif;
+  top:130px;
+  /*left:100px;*/
+}
+#contacts #avatar {
+  position: relative;
+  top: 38px;
+  left: -119px;
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+}
+#contacts h2 span{
+  /*display: inline-block;*/
+  /*top: 50px;*/
+}
+.icon{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+ border:"10px black solid";
+ margin:10px;
+ margin-top: 200px;
+}
